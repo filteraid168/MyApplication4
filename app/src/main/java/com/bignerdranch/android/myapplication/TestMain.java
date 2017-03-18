@@ -5,4 +5,5 @@ package com.bignerdranch.android.myapplication;
  */
 
 public class TestMain {
+        private int i = 0;
 }
